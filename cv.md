@@ -1,11 +1,12 @@
-#Tatyana Gorelova
-## Junior Frontend Developer
----
+# Tatyana Gorelova
+**Junior Frontend Developer**
+
 ## Contact Information
-*Phone*: +89164457332
-*LinkedIn*: https://www.linkedin.com/in/tanya-gorelova/
-*Telegram*: @TanyaGorelova
-*Email*: gorella2008*AT*gmail.com
+
+**Phone**: +89164457332
+**LinkedIn**: https://www.linkedin.com/in/tanya-gorelova/
+**Telegram**: @TanyaGorelova
+**Email**: gorella2008*AT*gmail.com
 --
 ## About myself
 
