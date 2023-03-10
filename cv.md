@@ -32,7 +32,7 @@ Complete the solution so that it returns true if it contains any duplicate argum
 The array values passed in will only be strings or numbers. The only valid return values are true and false.
 
 ```
-**function** solution(...arg){
+function solution(...arg){
  const set = [...new Set(arg)];
   if( set.length === arg.length) {
     return false
