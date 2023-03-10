@@ -1,4 +1,4 @@
-# Tatiana Gorelova
+# Tatyana Gorelova
 **Junior Frontend Developer**
 ----
 ### Contact Information
@@ -51,4 +51,9 @@ The array values passed in will only be strings or numbers. The only valid retur
 ![JavaScript Basic](https://s467sas.storage.yandex.net/rdisk/0dcb5a75398ade5b0c83f7693945eec43e56d2f61b56a2e652f86667f998d84b/640aa854/NiDWaz0BxfV6fh1bPXwNJD_8JXDD-RYe4kt1W3KvlZDiUjYE8KAYC7ZXaAlCRyqInTn5KIIDgnsa8YZ-ZzLOOQ==?uid=0&filename=js_basic%20certificate.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&fsize=87243&hid=ce61a9a6e02e0bf7703b081b0cb4bdca&media_type=image&tknv=v2&etag=36394f1a4fcc9ab274259377adb42efa&rtoken=9hR4UTWmYsMY&force_default=no&ycrid=na-64993e0e9942f62e3456371e128ce8bc-downloader4e&ts=5f6839efbbd00&s=9bf52e63113486d7c44bdf622d621e45b548cf2c763733413b1c80749a7fd2a7&pb=U2FsdGVkX1_MGBJmxgx7nCNiQ_jWcgzL3382PnoEFLiu9QdSBkaqFwWR-oaKvaROiDvs8QPf53wzWbEi8_wf1nY3hq6REjF3vqUM8dZ3FYo)
 ![JavaScript Intermediate](https://s283vlx.storage.yandex.net/rdisk/def8aaa78da60120b47834de2949d12a118aee63020761250f9bd57c20535834/640aa8f8/NiDWaz0BxfV6fh1bPXwNJBgE1jEUVAMUjS_OQHT9K909UeXHLOIovuqDshRMCFBND9FOlfvn6QG7ZFz8bRSHqw==?uid=253206&filename=js_intermediate%20certificate.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=253206&fsize=87713&hid=5a5eaccafe22d16880afad596296eeed&media_type=image&tknv=v2&etag=d77b03ec40bfb5e1779f180033d64334&rtoken=zql66ufSHrKv&force_default=yes&ycrid=na-ab091994224bf1fad8d95e04d1cf7e6e-downloader4e&ts=5f683a8c22e00&s=75241ec6dd31a76aaa249322da2c8a0fd954daaeeb4a70516fa4f8f066b96607&pb=U2FsdGVkX18PYDm3lHnBBp-jXhTTecAbHVkVDMiwDp1RGIoADrJgQuFQV4Na1jqDZAEcjRqkDce8-si7MCNuFR72U2k-4hhv0QscYhPGxTo)
 ![React Basic](https://s63vlx.storage.yandex.net/rdisk/f2fdf561ebc20208c83208adb8a6e408db753abb744df672b2663d9c17e6bd3a/640aa946/NiDWaz0BxfV6fh1bPXwNJNZaycfplhLP9Nrvk2c2_LD-DmQ0pu6MMq0DgC9mbm1IAQaqYzz8F8G9Jo361n0hmw==?uid=253206&filename=react_basic%20certificate.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=253206&fsize=86913&hid=5a2080ab05e78b11115f7150bc3a1a0b&media_type=image&tknv=v2&etag=3aedbe81c6b40dbfd4d95fb45409fec4&rtoken=hgYBRiesKKym&force_default=yes&ycrid=na-004507c784381710e4a43080a66f5193-downloader4e&ts=5f683ad685d80&s=98c34d120310fa967191820b8041f028b70e3a7b731c2b55d7cc187b4e8acf7f&pb=U2FsdGVkX1-p045Jyvzp0qw2_M8EJoEakg2Tx4ekf1h1mN_5G876Nz5hILOZLsL_iyrW9x8o3_jtlBuQ2AbbZmCx8y3QxUp-UmDGqDDtdsg)
-![Responsive Web Design](https://s09vla.storage.yandex.net/rdisk/459da07410fd3ac73aa4986cc1de3bdd0a3ee91177163ee8b60f32c82cb971d9/640aa978/NiDWaz0BxfV6fh1bPXwNJElUpc09ljQw0ib-RH5lp_ia_ed33tD9piy0kIJOUisBDb1FkD98-J_iijtv2F0-5A==?uid=253206&filename=freecodecamp.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=253206&fsize=106713&hid=5aa14721391d6d11e960180b1bc14d34&media_type=image&tknv=v2&etag=dc996224a30180147a146f8ae41135ab&rtoken=nOjjx53y2m5n&force_default=yes&ycrid=na-9e2b87e8ceb3f2f46e05cbf36f343f0e-downloader4e&ts=5f683b0634e00&s=9935825b21c6949db0bc6dbe958c1af98a630135c68af372cd7bdf6a58b4c4d7&pb=U2FsdGVkX19sdyTbpH7qee3249azAgSA5r3AcCpqfpWSQmDJIEAw5tJ4mPTM9O2Zay541mEV9BXY-zDyQuTuN7YqHkDvIPtd4MUpUPidQ2U)
+
+---
+### Language
+* Russian - native
+* English - Advanced - Proficient according to EF SET [test](https://www.efset.org/cert/zYmPW5)
+* German - basic
